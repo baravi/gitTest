@@ -1,3 +1,6 @@
 5-1 -26 --- first time pushing file from local. 
 5-1-26 -- updating second time
 5-1-26 -- updated directly inside the git
+--- created a branch - feature/1 and pushed to branch 
+git fetch origin 
+git checkout feature/1
